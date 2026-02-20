@@ -4,3 +4,4 @@ pyotp
 pandas
 requests
 gunicorn
+logzero
