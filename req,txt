@@ -1,0 +1,6 @@
+Flask
+smartapi-python
+pyotp
+pandas
+requests
+gunicorn
