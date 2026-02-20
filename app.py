@@ -8,10 +8,10 @@ from datetime import datetime
 # ==============================
 # 🔐 YOUR CREDENTIALS
 # ==============================
-API_KEY = "YOUR_API_KEY"
-CLIENT_CODE = "YOUR_CLIENT_CODE"
-PIN = "YOUR_PIN"
-TOTP_TOKEN = "YOUR_QR_TOKEN"
+API_KEY = "8zv76K9h"
+CLIENT_CODE = "M700579"
+PIN = "7869"
+TOTP_TOKEN = "RUEL32R7OCR3FY6KVRM3IIXV6I"
 
 app = Flask(__name__)
 
