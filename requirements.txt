@@ -5,3 +5,4 @@ pandas
 requests
 gunicorn
 logzero
+websocket-client
